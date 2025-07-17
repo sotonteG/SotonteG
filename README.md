@@ -14,6 +14,6 @@ I'm currently 16 *my birthday is on December 29th*😄
 - 🤔 I hope to gain some experience in coding because of my future goals of futrhering my education.
 - 💬 I also have a previous experience with coding, specifically with HTML.
 - 📫 I learned HTML in the 7th grade, but never picked coding up again, until now. 
-- 😄 
-- ⚡ Fun fact: ...
+- 😄 How to reach me: sotonteg1@gmail.com
+- ⚡ Fun fact: I'm a very big cat lover! I have two cats
 -->
