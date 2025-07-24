@@ -15,5 +15,5 @@
 - 📫 I learned HTML in the 7th grade. I never picked coding up again, until now. 
 - 😄 How to reach me: sotonteg1@gmail.com
 - ⚡ Fun fact: I'm a big cat lover! I have two cats
-- My favorite site is pinterest: https://www.pinterest.com/fairymmmhrb/_created/
+
 -->
