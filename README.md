@@ -4,7 +4,7 @@
 - Hello, everyone
 - My name is Sotonte George.
 - My pronouns are she/her
-- I'm currently 16 
+- I'm 16
 - *my birthday is on December 29th*😄 
 - 🔭 I’m currently working on learning github, and coding with different tools like HTML and CSS. 
 - I am also a rising senior in high school, and i'm really excited for the new adventures ahead!
